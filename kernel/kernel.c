@@ -28,7 +28,7 @@ char* whoami =
 "    OOOO'OOOO\n"
 "   OOO'   'OOO\n"
 "  O'         'O\n"
-"\nGAY OS\n";
+"\nRetra-Os\n";
 
 void startcalc();
 void ls();
